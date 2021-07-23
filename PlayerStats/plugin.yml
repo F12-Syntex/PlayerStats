@@ -1,0 +1,9 @@
+name: PlayerStats
+version: 1.0
+api-version: 1.16
+main: com.playerstats.main.PlayerStats
+author: Unfairbody96
+depend: [Vault]
+commands:
+  stats:
+    description: Player stats main command
